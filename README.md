@@ -4,6 +4,8 @@
 
 The assessment information is located in the file: [ASSESSMENT.MD](./ASSESSMENT.MD)
 
+The solution information for assessment is located in the file: [ASSESSMENT-SOLUTION.MD](./ASSESSMENT-SOLUTION.md)
+
 # NodeJS version
 
 Currently the project works with **NODEJS 10 LTS** environment. Please make sure you MAC/PC has a 10.x node version installed. (https://nodejs.org/dist/latest-v10.x/). You can also try NODEJS 12 LTS as an experiment but support has not been verified.
