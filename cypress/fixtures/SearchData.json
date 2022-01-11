@@ -1,0 +1,24 @@
+{
+  "persons": [
+    "Luke Skywalker",
+    "Darth Vader",
+    "Leia Organa",
+    "Yoda"
+  ],
+  "planets": [
+    "Tatooine",
+    "Naboo",
+    "Mustafar"
+  ],
+  "invalidTextSearch": "@#$%",
+  "personsMultiple": [
+    "Le",
+    "Ar",
+    "Org"
+  ],
+  "planetsMultiple": [
+    "Th",
+    "U",
+    "An"
+  ]
+}
